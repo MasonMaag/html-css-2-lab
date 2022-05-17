@@ -1,0 +1,84 @@
+.shapes{
+    display: flex;
+    width:97vw;
+    height: 15vh;
+    border: solid black;
+    margin: 10px;
+}
+
+.skinnyrec{
+    display:flex;
+    width:3.5vw;
+    height:10vh;
+    background-color: purple;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.bigrec{
+    display: flex;
+    width: 30vw;
+    height: 13vh;
+    background-color: green;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.circle{
+    display: flex;
+    width: 13vw;
+    height: 13vw;
+    background-color: lightblue;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.border{
+    display: flex;
+    width:97vw;
+    height: 20vh;
+    border: dotted black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.rectangle{
+    display:flex;
+    width: 90vw;
+    height: 13vh;
+    background-color: rgb(221, 199, 173);
+    margin-left: 30px;
+    margin-top: 30px;
+    box-shadow: 5px 5px grey;
+    
+}
+
+.hellobox{
+    display: flex;
+    width: 60vw;
+    height: 30vh;
+    border: lightgray 1px solid;
+    margin-left: 170px;
+    margin-top: 40px;
+    box-shadow: 3px 3px grey ;
+}
+
+.hellotext{
+    display: flex;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 200px;
+    color: darkblue;
+    font-weight: 600;
+}
+
+.friendstext{
+    display: flex;
+    font-size: 30px;
+    margin-top: 1px;
+    margin-left: 180px;
+    color: darkblue;
+    font-weight: 600;
+}
+
